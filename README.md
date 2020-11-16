@@ -20,7 +20,7 @@
 </p>
 </br>
 
-### 재학생 수행 프로젝트
+###  수행 중인 프로젝트
 
 - `2020-10` [어프렌티스 프로젝트](https://github.com/ED-Won/industrial-AI/tree/master/projects/어프렌티스-프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-10` [지능형 IoT 네트워크](https://github.com/ED-Won/industrial-AI/tree/master/projects/지능형-IoT-네트워크): IoT 기술을 이용한 데이터수집 및 IoT 네트워크 최적화 학습
@@ -39,5 +39,5 @@
 ### 재학생 포트폴리오 현황
 
 - `2020-11` [재학생이름](GitHub link): 재학생 GitHub 포트폴리오 주소
-
-
+- '2020- 포토폴리오작성을 위하여 배우는중. 
+- 느낌 : 아나로그의 아름다움을 모름. 
