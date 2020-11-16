@@ -1,7 +1,6 @@
-## Contacts
+## Python Program
 
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
+- histogram.py:파이선 프로젝트 과제
 
 ## Educational Course
 
